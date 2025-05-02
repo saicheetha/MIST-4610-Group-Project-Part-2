@@ -68,10 +68,9 @@ Which county has the most electric cars in California?
 
 ![image](https://github.com/user-attachments/assets/281156ef-797c-4d3c-af5a-d2f375775bbc)
 
-For our second question, we decided to use a map to display how many electric cars are in each county in California. The map highlights each county that has electric cars, and displays the number of electric cars in that county. The map also has a heat map, meaning that the more cars the county has, the darker the county is highlighted. 
+For our second question, we decided to use a map to display a representative sample of how many electric cars are in each county in California. The map highlights each county that has electric cars, and displays the number of electric cars in that county in the dataset. The map also has a heat map, meaning that the more cars the county has, the darker the county is highlighted. 
 
 This is particularly important to manufacturers of electric cars because California has the most electric cars of any state, meaning that the residents there closely align with the target market of electric car manufacturers. So, looking at California’s counties individually is important because there could be areas that have potential to have more electric car owners. The reason California should be such a big target is due to many factors, such as mandates for zero emission vehicles by 2035, financial incentives, and just an overall big emphasis on environmental protection by California in general. This map is very interesting because very populated areas, such as the San Francisco area, have a shockingly low amount of electric cars, but areas like San Diego have the most electric vehicles of any part of the state. If electric car manufacturers could capture these other highly populated areas, then there is a chance for them to increase their margins and capture a greater market share.
-
 ## Manipulations
 
 For Question 1, we applied a filter to the Make field to show the top 5 manufacturers in the country. We did this as they represent a large majority of the EV market and including more would make the data more cluttered. 
